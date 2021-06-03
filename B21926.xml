@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament concerning coales and salt : wherein is ample satisfaction given to all murmurers and malignants, why the honourable city of London hath not a supply as formerly ; also two ordinances of great consequence ...</title>
+            <title>Declaration of the Lords and Commons assembled in Parliament concerning coales and salt</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21926</idno><idno type="EEBO-CITATION">12138051</idno>
+  <idno type="VID">196941</idno>
+  <idno type="EEBO-PROQUEST">2248565612</idno>
+  
+            <idno type="STC">Wing E1362</idno>
+            <idno type="OCLC">12138051</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196941)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E81, no 29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament concerning coales and salt : wherein is ample satisfaction given to all murmurers and malignants, why the honourable city of London hath not a supply as formerly ; also two ordinances of great consequence ...</title>
+                  <title>Declaration of the Lords and Commons assembled in Parliament concerning coales and salt</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 13 [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two ordinances "1. That whosoever shall assist His Majesty in this warre, with horse, armes, plate or money, are traytors to His Majesty, the Parliament and Kingdome. 2. That the Houses of Delinquents shall not bee plundered, pulled downe or destroyed, but reserved for the benefit and advantage of the common-wealth."</note>
+                  <note>A later edition has title : A declaration ... that no ships, barques, or other vessel shal from henceforward make any voyage to New-castle ...</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coal --  England --  Supply and demand.</term>
+               <term type="topical_term">Salt --  Supply and demand.</term>
+               <term type="geographic_name">Newcastle upon Tyne (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196941:1"/>
+            <pb facs="tcp:196941:1"/>
+            <p> A DECLARATION OF THE LORDS and COMMONS Assembled in PARLIAMENT: Concerning Coales and Salt.</p>
+            <p>Wherein is ample satisfaction given to all murmu<g ref="char:EOLhyphen"/>rers and Malignants, why the Honourable City of Lon<g ref="char:EOLhyphen"/>don hath not a supply as formerly.</p>
+            <p>ALSO, Two Ordinances of great Consequence.</p>
+            <p n="1">1. That whosoever shall assist His Majesty in this Warre, with Horse, Armes, Plate, or Money, are Tray<g ref="char:EOLhyphen"/>tors to His Majesty, the Parliament, and Kingdome.</p>
+            <p n="2">2. That the Houses of Delinquents shall not bee plundered, pulled downe, or destroyed, but reserved for the benefit and advantage of the Common-wealth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the Lords and Commons Assembled in Parliament, that these Declarations and Instructions be forthwith Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Brown Cler. Parl. Hen. Elsinge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Jan. 13. London Printed for T. S.</p>
+            <pb facs="tcp:196941:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:196941:2"/>
+            <head>
+               <hi>A Declaration of the Lords &amp; Com<g ref="char:EOLhyphen"/>mons Assembled in Parliament, that no Ships, Barques, or other Vesselle, shall from henceforward make any voyage to <hi>New-Castle,</hi> for the fetching of Coales or any other Commodity, untill that Towne shall be reduced into such hands, as shall declare themselves for King and Parliament.</hi>
+            </head>
+            <p>THe Lords and Commons Assembled in Parlia<g ref="char:EOLhyphen"/>ment, taking into their consideration the number of Ships, and quantity of Mony, that is every yeare imployed from <hi>London,</hi> and other parts and places of this Kingdome, for the fetching of Coales and Salt, from <hi>New-Castle, Sunderland,</hi> and <hi>Blyth,</hi> and finding that since the beginning of the present troubles, that Towne of <hi>New-Castle</hi> being possessed by Forces raised against the King and Parliament, hath beene, and is the principall In-let of forraine Aid, Forces, and Ammunition, for the strengthning of that Force that intends destruction to the Parliament, and therby to the Religion, Lawes, and Liberties of this Kingdome; And taking into consideration, that sufficient Coales be supplyed from other parts for the use of this Kingdome, doe declare; That they are in<g ref="char:EOLhyphen"/>forced for the safety of the Kingdome, and for the better hindering of the supporting of the said Forces, and of the reducing or the Towne of <hi>New-Castle,</hi> and the parts adjacent, to yeeld obedience and submission to the command of the two Houses of Parliament, are constrained for the present to hinder the repairing of Ships to <hi>New-Castle, Sunderland,</hi> &amp; <hi>Blyth,</hi> lest those
+<pb n="2" facs="tcp:196941:3"/> Ships and Money which are intended to procure Fewell for the supportation of the Kingdome, be im<g ref="char:EOLhyphen"/>proved to give vigour and maintenance to the Warr raised to the destruction thereof, for prevention wher<g ref="char:EOLhyphen"/>of, We the Lords and Commons do Ordaine, That no Ship, Ships, or Barques, shall from hencefor<g ref="char:EOLhyphen"/>ward make any voyage for the fetching of Coales, or Salt from <hi>New-Castle, Sunderland</hi> and <hi>Blyth,</hi> or car<g ref="char:EOLhyphen"/>rying of Corn or other provision of victuall; untill that Towne of <hi>New-Castle</hi> shall be freed of and from the Forces there now raised or maintained against the Parliament, and the Towne be reduced into such hands, and condition as shall declare themselves for King and Parliament: And the Masters, Owners, and Saylors of Ships, and Barques are hereby re<g ref="char:EOLhyphen"/>quired not to presume to goe that voyage contrary to this Ordinance; And it is further Ordained and Or<g ref="char:EOLhyphen"/>dered, that if any Ship, Vessell, or Barque, shall at any time after the first day of <hi>February</hi> next comming, Import, or bring into any port or place of this King<g ref="char:EOLhyphen"/>dom any Coales or Salt, laden from <hi>New-Castle, Sun<g ref="char:EOLhyphen"/>derland</hi> &amp; <hi>Blyth,</hi> or any of them, untill further Order be taken by both Houses of Parliament, that every such Ship, Vessell, and Barque, and the Masters and Saylors in the same, shall be seized upon and stayed in such port and place where they come in, untill the two Houses of Parliament being thereof informed, shall take further order and direction therein.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi 9 Januarij, 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords and Commons assembled in Parliament, that this Declaration, Instructions, and Order, sh<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>l be forthwith printed and published.</p>
+                        <closer>
+                           <signed>John Browne Cler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="declaration">
+            <pb n="3" facs="tcp:196941:3"/>
+            <p> THe Governour of the Castle of Tinmouth-Barre, hath laid a Tax upon all laden ships bound with the Coale for London, on some Thirty, on some Forty, on some Fifty pounds per ship; so that Coales must of ne<g ref="char:EOLhyphen"/>cessity be very deare.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons Assembled in Parliament.</p>
+                        <closer>
+                           <signed>H. Elsynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="declaration">
+            <pb n="4" facs="tcp:196941:4"/>
+            <head>A Declaration of the Lords and Com<g ref="char:EOLhyphen"/>mons Assembled in Parliament.</head>
+            <p>VVHereas the King seduced by wic<g ref="char:EOLhyphen"/>ked Counsell, doth make Warre against His Parliament and people; And for the promoting of that Warre, divers Forces both of Horse and Foot have beene, and are Levyed and raysed by severall per<g ref="char:EOLhyphen"/>sons, and His Majesties good Subjects are most cruelly Robbed, Spoyled, and Slain:</p>
+            <p>To the end, that no man may be misled through ignorance, The Lrods and Com<g ref="char:EOLhyphen"/>mons in Parliament Declare, That all such persons as shall upon any pretence whatso<g ref="char:EOLhyphen"/>ever, assist His Majesty in this Warre, with Horse, Armes, Plate, or Money, are Tray<g ref="char:EOLhyphen"/>tors
+<pb n="5" facs="tcp:196941:4"/> to His Majesty, the Parliament, and the Kingdome, and shall be brought to condigne punishment for so high an of<g ref="char:EOLhyphen"/>fence.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Lords and Commons in Parliament, that this Declaration be forthwith Printed and publi<g ref="char:EOLhyphen"/>shed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elsinge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="declaration">
+            <pb n="6" facs="tcp:196941:5"/>
+            <p> WHereas this Kingdome and Common-wealth hath beene put to a great &amp; vast charge, by De<g ref="char:EOLhyphen"/>inquents and an ill-affected Party which if it be not discharged by them and their Estates, must necessarily lye as a burthen upon the good Subjects that have no way deserved it; It is therefore thought fit, and Or<g ref="char:EOLhyphen"/>dered by the Commons assembled in Parliament, That the houses of Delinquents or ill-affected per<g ref="char:EOLhyphen"/>sons, shall not be plundered, pulled downe, or destroy<g ref="char:EOLhyphen"/>ed, but reserved for the benefit and advantage of the Common-wealth, they being now considered rather as the houses of the Common-wealth then of Delin<g ref="char:EOLhyphen"/>quents, and accordingly to be so preserved, as they yeeld more profit and advantage to it.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the House of Commons, that this bee forthwith Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. Elsinge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
